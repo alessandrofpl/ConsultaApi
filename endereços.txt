@@ -1,0 +1,49 @@
+{
+  "cep": "11725-290",
+  "logradouro": "Rua Marco Antonio de Sousa Silverio",
+  "complemento": "",
+  "bairro": "Sítio do Campo",
+  "localidade": "Praia Grande",
+  "uf": "SP",
+  "ibge": "3541000",
+  "gia": "5587",
+  "ddd": "13",
+  "siafi": "6921"
+}{
+  "cep": "11725-310",
+  "logradouro": "Rua Doutor Lobo Viana",
+  "complemento": "",
+  "bairro": "Sítio do Campo",
+  "localidade": "Praia Grande",
+  "uf": "SP",
+  "ibge": "3541000",
+  "gia": "5587",
+  "ddd": "13",
+  "siafi": "6921"
+}{
+  "erro": "true"
+}{
+  "erro": "true"
+}{
+  "cep": "11088-110",
+  "logradouro": "Rua Professor Celestino Bourroul",
+  "complemento": "",
+  "bairro": "Castelo",
+  "localidade": "Santos",
+  "uf": "SP",
+  "ibge": "3548500",
+  "gia": "6336",
+  "ddd": "13",
+  "siafi": "7071"
+}{
+  "cep": "11711-240",
+  "logradouro": "Rua Onça-Pintada",
+  "complemento": "",
+  "bairro": "Princesa",
+  "localidade": "Praia Grande",
+  "uf": "SP",
+  "ibge": "3541000",
+  "gia": "5587",
+  "ddd": "13",
+  "siafi": "6921"
+}
